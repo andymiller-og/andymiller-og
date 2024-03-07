@@ -15,8 +15,9 @@ With a broad expertise spanning **data engineering**, **data science**, **Python
 
 ### Connect with Me
 
-- GitHub: @[YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [Andy Miller](https://www.linkedin.com/in/andymiller-og/)
+- GitHub: @[andymiller-og](https://github.com/andymiller-og)
+- LinkedIn: @[Andy Miller](https://www.linkedin.com/in/andymiller-og/)
+- Polywork: @[Andy Miller](https://www.polywork.com/andymiller)
 
 Feel free to check out my repositories and connect with me on LinkedIn for collaborations or just a chat about technology, data science, or anything innovative!
 
