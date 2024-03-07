@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Andy Miller 👋
 
-<!--
-**andymiller-og/andymiller-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founder of [Lextegrity](https://lextegrity.com), a pioneering compliance analytics startup, I've designed, engineered, and led the development of our **Compliance Monitoring** product, amongst other responsibilities. This innovative solution analyzes millions of transactions, risk-scoring them with an algorithm I developed, underpinned by over 90 risk analytics across four domains of spend.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a broad expertise spanning **data engineering**, **data science**, **Python programming**, and a knack for innovative solutions, I'm deeply passionate about leveraging technology to enhance transparency and efficiency in compliance processes.
+
+### What I Do
+
+- 🛠️ **Design & Engineering:** Spearheaded the product design and engineering of Lextegrity's flagship compliance monitoring software.
+- 🔍 **Data Science & Analytics:** Expert in crafting algorithms for risk assessment, utilizing advanced data science techniques.
+- 🐍 **Python Programming:** Proficient in Python, I create sophisticated scripts and applications for data analysis and automation.
+- 💡 **Innovation:** Constantly seeking new ways to solve complex problems, applying innovative thinking to the realm of compliance analytics.
+
+### Connect with Me
+
+- GitHub: @[YourGitHubUsername](https://github.com/YourGitHubUsername)
+- LinkedIn: [Andy Miller](https://www.linkedin.com/in/andymiller-og/)
+
+Feel free to check out my repositories and connect with me on LinkedIn for collaborations or just a chat about technology, data science, or anything innovative!
+
