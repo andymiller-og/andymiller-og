@@ -6,10 +6,10 @@ With deep expertise in data engineering, AI capabilities, Python programming, an
 
 ### What I Do
 
-🔍 **AI & Analytics:** Develop algorithms for extracting insights from information.
-🐍 **Python Programming:** Use python as the tool to deliver automation and analysis of data.
-💡 **Innovation:** Passion for developing practical, yet innovative solutions in software products.
-🛠️ **Leadership & Engineering:** Oversee product, engineering, and the infusion of AI cross-functionally.
+🔍 **AI & Analytics:** Develop algorithms for extracting insights from information.  
+🐍 **Python Programming:** Use python as the tool to deliver automation and analysis of data.  
+💡 **Innovation:** Passion for developing practical, yet innovative solutions in software products.  
+🛠️ **Leadership & Engineering:** Oversee product, engineering, and the infusion of AI cross-functionally.  
 
 ### Connect with Me
 - GitHub: @[andymiller-og](https://github.com/andymiller-og)
