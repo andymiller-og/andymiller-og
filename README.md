@@ -6,10 +6,10 @@ With deep expertise in **Autonomous Agents**, **Full-Stack Engineering**, and **
 
 ### What I Do
 
-🤖 **AI & Agents:** Architecting autonomous agentic systems and multi-agent coordination frameworks (including MCP).
-💻 **Full-Stack Engineering:** Developing and deploying production applications using TypeScript, Node.js, and Python.
-📊 **Scalable Analytics:** Designing high-scale data scoring and analysis engines that drive organizational transparency.
-🛠️ **Leadership & Innovation:** Overseeing the strategic infusion of AI cross-functionally across product and engineering teams.
+🤖 **AI & Agents:** Architecting autonomous agentic systems and multi-agent coordination frameworks (including MCP).  
+💻 **Full-Stack Engineering:** Developing and deploying production applications using TypeScript, Node.js, and Python.  
+📊 **Scalable Analytics:** Designing high-scale data scoring and analysis engines that drive organizational transparency.  
+🛠️ **Leadership & Innovation:** Overseeing the strategic infusion of AI cross-functionally across product and engineering teams.  
 
 ### Connect with Me
 - GitHub: @[andymiller-og](https://github.com/andymiller-og)
